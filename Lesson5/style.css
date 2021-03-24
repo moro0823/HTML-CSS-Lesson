@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+}
+
+.heading{
+  font-size: 28px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid orchid;
+}
+
+.list{
+  text-align: center;
+  list-style: none;
+  border-bottom: 2px solid orchid;
+}
+
+
+.list-item{
+  display: inline-block;
+  padding: 15px 20px;
+}
+
+.main-box{
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box1{
+  height: 200px;
+  width: 200px;
+  background-color: palegoldenrod;
+}
+
+.box2{
+  height: 200px;
+  width: 200px;
+  background-color: palegreen;
+}
+
+.box3{
+  height: 200px;
+  width: 200px;
+  background-color: palevioletred;
+}
+
+.box4{
+  height: 200px;
+  width: 200px;
+  background-color: plum;
+}
+
+.box5{
+  height: 200px;
+  width: 200px;
+  background-color: royalblue;
+}
+
+.box6{
+  height: 200px;
+  width: 200px;
+  background-color: seagreen;
+}
+
+.box7{
+  height: 200px;
+  width: 200px;
+  background-color: palegoldenrod;
+}
+
+.box8{
+  height: 200px;
+  width: 200px;
+  background-color: royalblue;
+}
+
+.box9{
+  height: 200px;
+  width: 200px;
+  background-color: plum;
+}
+
+
+.box10{
+  height: 200px;
+  width: 200px;
+  background-color: palevioletred;
+}
+
+
+.box11{
+  height: 200px;
+  width: 200px;
+  background-color:red;
+}
+
+
+.box12{
+  height: 200px;
+  width: 200px;
+  background-color:yellow;
+}
+
+footer{
+  height: 120px;
+  width: 100%;
+  background-color: darkblue;
+}
+
+
+.footer-text{
+  text-align: center;
+  color: white;
+  line-height: 120px;
+}
